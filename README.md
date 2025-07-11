@@ -88,16 +88,6 @@ Acesse [http://localhost:5000](http://localhost:5000) e clique em **Entrar com D
 
 ---
 
-## Demonstração
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2J2d3Z2b2J2d3Z2b2J2d3Z2b2J2d3Z2b2J2d3Z2b2J2d3Z2/giphy.gif" width="400" style="border-radius:12px;box-shadow:0 4px 24px #23272A55;"/>
-  <br/>
-  <i>Exemplo de fluxo de autenticação</i>
-</div>
-
----
-
 ## Estrutura do Projeto
 
 ```text
